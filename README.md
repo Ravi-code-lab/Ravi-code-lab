@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Ravi-code-lab/Ravi-code-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ravi-code-lab/Ravi-code-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
 Here are some ideas to get you started:
 
